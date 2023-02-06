@@ -2,4 +2,6 @@
 *
 #With exception of
 !.gitignore
-!Zadanie_*/
+!Zadanie_*/main.cpp
+!Zadanie_*/*.pdf
+!*.md
