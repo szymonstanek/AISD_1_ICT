@@ -2,4 +2,4 @@
 *
 #With exception of
 !.gitignore
-!Zadanie_3/main.cpp
+!/Zadanie_3/main.cpp
