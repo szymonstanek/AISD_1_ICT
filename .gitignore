@@ -1,5 +1,5 @@
 #Ignore all
-*
+**
 #With exception of
 !.gitignore
 !/Zadanie_3/main.cpp
